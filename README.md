@@ -3,7 +3,7 @@
 #### This is the store of various kind of books where users can check their desired books and other details of those books.
 
 ### Technology
-HTML, CSS, Bootstrap, React, Redux.
+HTML, CSS, Bootstrap, Node.js, React, Redux.
 
 
 ### Getting Started with Git
@@ -14,5 +14,7 @@ Checkout this repo, install dependencies, then start the gulp process with the f
 > npm install
 > npm start
 ```
+
+## Live https://book-store-na.herokuapp.com/
 
 
