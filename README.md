@@ -3,7 +3,7 @@
 #### This is the online book store of various kind of books where users can check their desired books and other details of those books.
 
 ### Technology
-HTML, CSS, Bootstrap, Node.js, React, Redux.
+HTML, CSS, Bootstrap, React, Redux.
 
 
 ### Getting Started with Git
